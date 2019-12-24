@@ -1,6 +1,6 @@
 {
-  "name": "react-utils",
-  "version": "1.0.0",
+  "name": "@randomol/react-utils",
+  "version": "1.0.1",
   "description": "utils for react project that created on the works",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,13 @@
     "react-dom": "^16.12.0",
     "react-test-renderer": "^16.12.0"
   },
+  "files": [
+    "index.js",
+    "class-factory.js",
+    "display.js",
+    "select-event-handler.js"
+  ],
+  "registry": "https://npm.pkg.github.com/randomol",
+  "repository": "git://github.com/randomol/react-utils.git",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
